@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<beans>
+	<bean type="student">
+		<id>1</id>
+		<name>蔡智法</name>
+		<age>21</age>
+	</bean>
+	<bean type="student">
+		<id>2</id>
+		<name>梁豆豆</name>
+		<age>21</age>
+	</bean>
+	<bean type="book">
+		<id>1</id>
+		<name>JAVA程序设计</name>
+	</bean>
+	<bean type="book">
+		<id>2</id>
+		<name>C程序设计</name>
+	</bean>
+</beans>
